@@ -1,0 +1,21 @@
+---
+lightbox: true
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    width: 1600
+    height: 900
+    logo: imagenes/logo.png
+    css: logo.css
+    fig.align: "left"
+embed-resources: true
+---
+
+##  {.title}
+
+::: r-fit-text
+**R en Red**:
+
+Oportunidades y Comunidad
+
+:::
