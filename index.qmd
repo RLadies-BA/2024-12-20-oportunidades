@@ -107,7 +107,7 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 # ¿De qué se trató?
 
-📌 **Jornadas de trabajo de contribución a R base:**
+📌 **Jornadas de trabajo de contribución a R base junto al R Core Team**
 
 -   🐞 Resolución de bugs en el código.
 -   📚 Mejora de documentación existente.
@@ -123,6 +123,8 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 -   🎫 Acceso via postulación o invitación, con alojamiento cubierto y posibilidad de beca de traslado
 -   📋 Formulario via el sitio de la Universidad de Warwick
+
+✅ Se valoraban:
 -   🌐 Comunidades que integrás (LatinR, Rladies, etc.)
 -   🌱 Contribuciones a R y RUGs
 -   💻 Habilidades y experiencia en trabajo con R
