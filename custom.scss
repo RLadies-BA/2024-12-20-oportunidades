@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
-$theme-light: #263e7e;
-$theme-yellow: #263e7e;
+$theme-light:  #7d2d83;
+$theme-yellow: #7d2d83;
 $theme-red: #AD5769;
 $theme-grey:#fcfcfc;
 $theme-lightgrey: #90A1B8;
@@ -59,23 +59,51 @@ $code-block-font-size: 1em;
 .reveal .title {
   background-color: $body-color;
   color: $theme-yellow;
+  font-size: 5rem;
+  font-weight: bold;
   
   h1 {
-    color: #263e7e; // Estilo específico para los h1
+    color: #7d2d83; // Estilo específico para los h1
+    font-size: 6rem;
+    font-weight: bold;
   }
   
   h2 {
-    color: #263e7e; // Estilo específico para los h1
+    color: #7d2d83; // Estilo específico para los h1
+    font-size: 6rem;
+    font-weight: bold;
   }
   
     h3 {
-    color: #263e7e; // Estilo específico para los h1
+    color: #7d2d83; // Estilo específico para los h1
     text-align: center;
     font-size: 5rem;
     margin-bottom: -10; 
   }
 
 }
+
+
+.reveal .subtitle {
+  background-color: $theme-yellow;
+  color: $body-color;
+  font-size: 2rem;
+  font-weight: bold;
+  
+  h1 {
+    color: #7d2d83; // Estilo específico para los h1
+  }
+  
+  h2 {
+    color: #7d2d83; // Estilo específico para los h1
+  }
+  
+    h3 {
+    color: #7d2d83; // Estilo específico para los h1
+  }
+
+}
+
 
 .reveal .footer {
   color: $theme-grey;

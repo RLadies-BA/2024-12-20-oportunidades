@@ -11,11 +11,171 @@ format:
 embed-resources: true
 ---
 
-##  {.title}
+#  {.title}
 
 ::: r-fit-text
 **R en Red**:
 
-Oportunidades y Comunidad
+Oportunidades y
 
+Comunidad
 :::
+
+#  {.smaller}
+
+::: columns
+::: {.column width="33%"}
+![](imagenes/Maria.jpeg){style="border-radius:1em;margin-top:auto"} **María Cristina Nanton**
+
+Maestranda en Data Mining (UBA). Coordinadora del equipo de Ciencia de Datos en el Ministerio de Salud CABA. Co-organizadora de RLadies Buenos Aires. Integrante de MetaDocencia.
+:::
+
+::: {.column width="33%"}
+![](imagenes/betsy.jpg){style="border-radius:1em;margin-top:auto" width="1530"} **Betsabé Cohen**
+
+Socióloga (UBA). Maestranda en Estadística (UNTREF). Co-organizadora de RLadies Buenos Aires y del Núcleo de Innovación Social.
+:::
+
+::: {.column width="33%"}
+![](imagenes/Jesi.jpg){style="border-radius:1em;margin-top:auto" width="1530"} **Jesica Formoso**
+
+Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies Buenos Aires. Coordinadora de medición de impacto en MetaDocencia.
+:::
+:::
+
+# {.subtitle}
+
+::: r-fit-text
+Posit::conf() 
+:::
+
+# ¿De qué se trata?
+
+📌 **Conferencia sobre**:
+
+-   🖥️ Productos de Posit (ex RStudio).
+
+-   📊 Análisis y ciencia de datos.
+
+-   📦 Contenidos y procesos creados con **R**.
+
+📌 **Actividades**:
+
+-   💬 Charlas inspiradoras.
+
+-   🛠️ Talleres prácticos.
+
+-   🌐 Oportunidades de networking.
+
+# A tener en cuenta..
+
+🌎 Locación: EEUU
+
+🎫 Acceso: Pago de entrada o beca (opportunity scholarship para viaje ✈️ y alojamiento 🏨)
+
+📅 Agosto/septiembre
+
+# ¿Cómo puedo postularme?
+
+📋 Google Forms.
+
+✅ Requisitos:
+
+-   💻 Experiencia en ciencia de datos y uso de R.
+
+-   📂 Proyectos, trabajos y repositorios.
+
+-   🌐 Rol en la comunidad local.
+
+-   🤝 Contribuciones previas y potenciales.
+
+-   Opcional:
+
+    -   🎤 Asistir en el dictado de un taller.
+
+    -   🙋🏼 Ofrecete a presentar tu propia charla.
+
+# R Sprint
+
+# ¿De qué se trata?
+
+📌 **Jornadas de trabajo de contribución a R base:**
+
+-   🐞 Resolución de bugs en el código.
+-   📚 Mejora de documentación existente.
+-   🔧 Extensión de las funcionalidades de R.
+-   🔄 Traducción de documentación.
+-   🌎 Locación: Inglaterra (Universidad de Warwick)
+
+# A tener en cuenta..
+
+🎫 Acceso: Pago de entrada o beca (opportunity scholarship para viaje ✈️ y alojamiento 🏨)
+
+# ¿Cómo puedo postularme?
+
+-   📋 Formulario via el sitio de la Universidad de Warwick
+-   🌐 Comunidades que integrás (LatinR, Rladies, etc.)
+-   🌱 Contribuciones a R y RUGs
+-   💻 Habilidades y experiencia en trabajo con R
+
+# Khipu
+
+# ¿De qué se trata?
+
+📌 **Encuentro Latinoamericano sobre Inteligencia Artificial**:
+
+-   🤖 Machine learning y sus aplica
+
+-   💬 Procesamiento del lenguaje natural
+
+-   🧠 Deep learning
+
+-   ⚖️ Sesgos
+
+📌 **Actividades**:
+
+-   🎤 Charlas
+
+-   🛠️ Talleres
+
+# A tener en cuenta..
+
+🌎 Presencial, país latinoamericano: Uruguay/Chile.
+
+🎫 Acceso: via postulación, no existe opción paga.
+
+📅 Bienal, marzo.
+
+🎓 Becas para viaje ✈️ y alojamiento 🏨
+
+# ¿Cómo puedo postularme?
+
+📋 Google Forms
+
+✅ Requisitos:
+
+-   💻 Trabajo vinculado a machine learning.
+
+-   🌐 Contribuciónes previas y potenciales a tu comunidad local.
+
+-   📂 Repositorios y trabajos publicados
+
+-   🙋🏼 Opcional: presentación de póster
+
+# Para cerrar..
+
+# ¿Por qué debería sumarme? 🤔
+
+-   📚 Adquirir o mejorar habilidades.
+
+-   🌐 Generar conexiones y oportunidades laborales.
+
+-   🏆 Obtener reconocimiento en tu área de especialidad.
+
+# ¿Cómo impacta en tu comunidad?
+
+-   🤝 Crear redes de colaboración.
+
+-   📣 Aumentar la visibilidad de tu comunidad.
+
+-   🌟 Inspirar y empoderar a otros profesionales de la región.
