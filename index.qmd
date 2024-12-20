@@ -67,6 +67,19 @@ Posit::conf()
 
 -   🌐 Oportunidades de networking.
 
+#
+
+::::: columns
+::: {.column width="50%"}
+![](imagenes/posit1.jpg)
+:::
+
+::: {.column width="50%"}
+
+![](imagenes/posit2.jpeg)
+:::
+:::::
+
 # A tener en cuenta..
 
 🌎 Locación: EEUU
@@ -97,7 +110,7 @@ Posit::conf()
 
 # R Sprint
 
-# ¿De qué se trata?
+# ¿De qué se trató?
 
 📌 **Jornadas de trabajo de contribución a R base:**
 
@@ -107,11 +120,15 @@ Posit::conf()
 -   🔄 Traducción de documentación.
 -   🌎 Locación: Inglaterra (Universidad de Warwick)
 
+# 
+
+![](imagenes/rsprint.jpg){width="500"}
+
 # A tener en cuenta..
 
-🎫 Acceso: Pago de entrada o beca (opportunity scholarship para viaje ✈️ y alojamiento 🏨)
+🎫 Acceso: via postulación, con alojamiento cubierto y posibilidad de beca de traslado
 
-# ¿Cómo puedo postularme?
+# ¿Cómo fue la postulación?
 
 -   📋 Formulario via el sitio de la Universidad de Warwick
 -   🌐 Comunidades que integrás (LatinR, Rladies, etc.)
@@ -124,7 +141,7 @@ Posit::conf()
 
 📌 **Encuentro Latinoamericano sobre Inteligencia Artificial**:
 
--   🤖 Machine learning y sus aplica
+-   🤖 Machine learning y sus aplicaciones
 
 -   💬 Procesamiento del lenguaje natural
 
@@ -137,6 +154,19 @@ Posit::conf()
 -   🎤 Charlas
 
 -   🛠️ Talleres
+
+#
+
+::::: columns
+::: {.column width="50%"}
+![](imagenes/khipu1.jpg)
+:::
+
+::: {.column width="50%"}
+
+![](imagenes/khipu2.jpg)
+:::
+:::::
 
 # A tener en cuenta..
 
@@ -161,6 +191,58 @@ Posit::conf()
 -   📂 Repositorios y trabajos publicados
 
 -   🙋🏼 Opcional: presentación de póster
+
+# LatinR
+
+# ¿De qué se trata?
+
+📌 **Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo**:
+
+-   💻 Aplicaciones de R en distintas disciplinas de la academia y la industria.
+
+-   🔧 Desarrollo de nuevos paquetes R
+
+-   📚 Uso de R en la enseñanza
+
+-   📊️ Investigación reproducible usando R
+
+-   🌐️ Usos de R en el sector público
+
+📌 **Actividades**:
+
+-   🎤 Charlas
+
+-   🛠️ Talleres
+
+#
+::::: columns
+::: {.column width="50%"}
+![](imagenes/latinr1.jpg)
+:::
+
+::: {.column width="50%"}
+
+![](imagenes/latinr2.png)
+:::
+:::::
+
+# A tener en cuenta..
+
+🌎 Presencial / híbrido, en años alternados
+
+🎫 Acceso: pago de entrada o beca
+
+📅 Anual, octubre/noviembre
+
+🎓 Becas para entrada 🎫 viaje ✈️ y alojamiento 🏨
+
+# ¿Cómo puedo postularme?
+
+📋 Google Forms
+
+✅ Requisitos:
+
+-   ...
 
 # Para cerrar..
 
