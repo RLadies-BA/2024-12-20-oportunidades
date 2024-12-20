@@ -49,11 +49,11 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 📌 **Conferencia sobre**:
 
--   🖥️ Productos de Posit (ex RStudio).
+-   🖥️ Productos de Posit (ex RStudio)
 
--   📊 Análisis y ciencia de datos.
+-   📊 Análisis y ciencia de datos
 
--   📦 Contenidos y procesos creados con **R**.
+-   📦 Contenidos y procesos creados con **R**
 
 📌 **Actividades**:
 
@@ -89,7 +89,7 @@ https://posit.co/conference/
 
 📅 Agosto/septiembre
 
-🛂 Requiere contar con/tramitar la visa.
+🛂 Requiere contar con/tramitar la visa
 
 ::: footer
 https://posit.co/conference/
@@ -101,19 +101,19 @@ https://posit.co/conference/
 
 ✅ Se valora:
 
--   💻 Experiencia en ciencia de datos y uso de R.
+-   💻 Experiencia en ciencia de datos y uso de R
 
--   📂 Proyectos, trabajos y repositorios.
+-   📂 Proyectos, trabajos y repositorios
 
--   🌐 Rol en la comunidad local.
+-   🌐 Rol en la comunidad local
 
--   🤝 Contribuciones previas y potenciales.
+-   🤝 Contribuciones previas y potenciales
 
 -   Opcional:
 
-    -   🎤 Asistir en el dictado de un taller.
+    -   🎤 Asistir en el dictado de un taller
 
-    -   🙋🏼 Ofrecete a presentar tu propia charla.
+    -   🙋🏼 Ofrecete a presentar tu propia charla
 
 ::: footer
 https://posit.co/conference/
@@ -125,10 +125,10 @@ https://posit.co/conference/
 
 📌 **Jornadas de trabajo de contribución a R base junto al R Core Team**
 
--   🐞 Resolución de bugs en el código.
--   📚 Mejora de documentación existente.
--   🔧 Extensión de las funcionalidades de R.
--   🔄 Traducción de documentación.
+-   🐞 Resolución de bugs en el código
+-   📚 Mejora de documentación existente
+-   🔧 Extensión de las funcionalidades de R
+-   🔄 Traducción de documentación
 -   🌎 Locación: Inglaterra (Universidad de Warwick)
 
 ::: footer
@@ -200,11 +200,11 @@ https://khipu.ai/
 
 # A tener en cuenta..
 
-🌎 Presencial, país latinoamericano: Uruguay/Chile.
+🌎 Presencial, país latinoamericano: Uruguay/Chile
 
-🎫 Acceso: via postulación, no existe opción paga.
+🎫 Acceso: via postulación, no existe opción paga
 
-📅 Bienal, marzo.
+📅 Bienal, marzo
 
 🎓 Becas para viaje ✈️ y alojamiento 🏨
 
@@ -214,13 +214,13 @@ https://khipu.ai/
 
 ✅ Se valora:
 
--   💻 Trabajo vinculado a machine learning.
+-   💻 Trabajo vinculado a machine learning
 
--   🌐 Contribuciónes previas y potenciales a tu comunidad local.
+-   🌐 Contribuciónes previas y potenciales a tu comunidad local
 
--   📂 Repositorios y trabajos publicados.
+-   📂 Repositorios y trabajos publicados
 
--   🙋🏼 Opcional: presentación de póster.
+-   🙋🏼 Opcional: presentación de póster
 
 ::: footer
 https://khipu.ai/
@@ -232,7 +232,7 @@ https://khipu.ai/
 
 📌 **Conferencia Latinoamericana sobre Uso de R en Investigación + Desarrollo**:
 
--   💻 Aplicaciones de R en distintas disciplinas de la academia y la industria.
+-   💻 Aplicaciones de R en distintas disciplinas de la academia y la industria
 
 -   🔧 Desarrollo de nuevos paquetes R
 
@@ -304,7 +304,7 @@ https://latinr.org/
 
 📌 **Encuentro que busca reunir a líderes en Diversidad, Equidad e Inclusión (DEI) y contribuyentes de código abierto para**:
 
--   📚 Crear recursos educativos de código abierto centrados en DEI.
+-   📚 Crear recursos educativos de código abierto centrados en DEI
 
 -   🎯 Comprender los desafíos y oportunidades para contribuyentes potenciales del Sur Global
 
@@ -312,9 +312,9 @@ https://latinr.org/
 
 📌 **Actividades:**
 
--   💡 Sesiones interactivas de colaboración o discusión abiertas.
--   🎤 Presentaciones de proyectos desarrollados durante el evento.
--   ☕ Actividaes sociales o de networking.
+-   💡 Sesiones interactivas de colaboración o discusión abiertas
+-   🎤 Presentaciones de proyectos desarrollados durante el evento
+-   ☕ Actividaes sociales o de networking
 
 ::: footer
 https://numfocus.org/disc-unconference-amsterdam
@@ -322,31 +322,15 @@ https://numfocus.org/disc-unconference-amsterdam
 
 # 
 
-::: columns
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-![](imagenes/latinr1.jpg){width="674"} ![](imagenes/latinr2.jpg){width="674"}
-:::
-
-::: {.column width="40%"}
-![](imagenes/latinr3.jpg){width="676"} ![](imagenes/latinr4.jpg){width="680"}
-:::
-
-::: {.column width="10%"}
-:::
-:::
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EVip8CCGfgc1oM2lpqoZTg.png)
 
 # A tener en cuenta..
 
-🌎 Presencial / híbrido, en años alternados
+🌍 Participación presencial y en línea.
 
-🎫 Acceso: pago de entrada o beca
+💰 Sin tarifa de inscripción.
 
-📅 Anual, octubre/noviembre
-
-🎓 Becas para entrada 🎫 viaje ✈️ o alojamiento 🏨
+✈️ 🏨 Apoyo para participantes presenciales: NumFOCUS cubre los costos de viaje y alojamiento.
 
 ::: footer
 https://numfocus.org/disc-unconference-amsterdam
@@ -354,13 +338,13 @@ https://numfocus.org/disc-unconference-amsterdam
 
 # ¿Cómo puedo postularme?
 
-📋 Google Forms
+📋 Formulario de typeform
 
-✅ Se tiene en cuenta:
+✅ Se valoran:
 
--   🎫 Necesidad
--   🌐 Diversidad
--   🌱 Impacto potencial en comunidades
+-   📝 Intereses y motivación para participar en el evento
+-   🌐 Diversidad de perspectivas
+-   🌱 Compromiso con la diversidad y la inclusión (agentes de cambio)
 
 ::: footer
 https://numfocus.org/disc-unconference-amsterdam
@@ -370,20 +354,20 @@ https://numfocus.org/disc-unconference-amsterdam
 
 # ¿Por qué debería sumarme? 🤔
 
--   📚 Adquirir o mejorar habilidades.
+-   📚 Adquirir o mejorar habilidades
 
--   🌐 Generar conexiones y oportunidades laborales.
+-   🌐 Generar conexiones y oportunidades laborales
 
--   🏆 Obtener reconocimiento en tu área de especialidad.
+-   🏆 Obtener reconocimiento en tu área de especialidad
 
 # ¿Cómo impacta en tu comunidad?
 
--   🤝 Crear redes de colaboración.
+-   🤝 Crear redes de colaboración
 
--   📣 Aumentar la visibilidad de tu comunidad.
+-   📣 Aumentar la visibilidad de tu comunidad
 
--   🧠 Traer nuevas ideas para su aplicación y contextualización local.
+-   🧠 Traer nuevas ideas para su aplicación y contextualización local
 
--   🌟 Inspirar y empoderar a otras personas de la región.
+-   🌟 Inspirar y empoderar a otras personas de la región
 
--   🌐 Dar una perspectiva más amplia a las comunidades globales.
+-   🌐 Dar una perspectiva más amplia a las comunidades globales
