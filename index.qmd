@@ -19,8 +19,6 @@ embed-resources: true
 Oportunidades y
 
 Comunidad
-
-
 :::
 
 #  {.smaller}
@@ -65,6 +63,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 -   🌐 Oportunidades de networking.
 
+::: footer
+https://posit.co/conference/
+:::
+
 # 
 
 ::: columns
@@ -87,6 +89,12 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 📅 Agosto/septiembre
 
+🛂 Requiere contar con/tramitar la visa.
+
+::: footer
+https://posit.co/conference/
+:::
+
 # ¿Cómo puedo postularme?
 
 📋 Google Forms.
@@ -107,6 +115,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
     -   🙋🏼 Ofrecete a presentar tu propia charla.
 
+::: footer
+https://posit.co/conference/
+:::
+
 # R Sprint
 
 # ¿De qué se trató?
@@ -118,6 +130,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 -   🔧 Extensión de las funcionalidades de R.
 -   🔄 Traducción de documentación.
 -   🌎 Locación: Inglaterra (Universidad de Warwick)
+
+::: footer
+https://contributor.r-project.org/r-project-sprint-2023/
+:::
 
 # 
 
@@ -142,6 +158,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 -   🌱 Contribuciones a R y RUGs
 -   💻 Habilidades y experiencia en trabajo con R
 
+::: footer
+https://contributor.r-project.org/r-project-sprint-2023/
+:::
+
 # Khipu
 
 # ¿De qué se trata?
@@ -161,6 +181,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 -   🎤 Charlas
 
 -   🛠️ Talleres
+
+::: footer
+https://khipu.ai/
+:::
 
 # 
 
@@ -198,6 +222,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 -   🙋🏼 Opcional: presentación de póster.
 
+::: footer
+https://khipu.ai/
+:::
+
 # LatinR
 
 # ¿De qué se trata?
@@ -220,15 +248,25 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 -   🛠️ Talleres
 
+::: footer
+https://latinr.org/
+:::
+
 # 
 
 ::: columns
-::: {.column width="50%"}
-![](imagenes/latinr1.jpg)
+::: {.column width="10%"}
 :::
 
-::: {.column width="50%"}
-![](imagenes/latinr2.png)
+::: {.column width="40%"}
+![](imagenes/latinr1.jpg){width="674"} ![](imagenes/latinr2.jpg){width="674"}
+:::
+
+::: {.column width="40%"}
+![](imagenes/latinr3.jpg){width="676"} ![](imagenes/latinr4.jpg){width="680"}
+:::
+
+::: {.column width="10%"}
 :::
 :::
 
@@ -242,6 +280,10 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 🎓 Becas para entrada 🎫 viaje ✈️ o alojamiento 🏨
 
+::: footer
+https://latinr.org/
+:::
+
 # ¿Cómo puedo postularme?
 
 📋 Google Forms
@@ -251,6 +293,78 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 -   🎫 Necesidad
 -   🌐 Diversidad
 -   🌱 Impacto potencial en comunidades
+
+::: footer
+https://latinr.org/
+:::
+
+# NUMFOCUS DISC Unconference (desconferencia)
+
+# ¿De qué se trata?
+
+📌 **Encuentro que busca reunir a líderes en Diversidad, Equidad e Inclusión (DEI) y contribuyentes de código abierto para**:
+
+-   📚 Crear recursos educativos de código abierto centrados en DEI.
+
+-   🎯 Comprender los desafíos y oportunidades para contribuyentes potenciales del Sur Global
+
+-   🌐 Fomentar la colaboración entre líderes globales de DEI en grupos subrepresentados
+
+📌 **Actividades:**
+
+-   💡 Sesiones interactivas de colaboración o discusión abiertas.
+-   🎤 Presentaciones de proyectos desarrollados durante el evento.
+-   ☕ Actividaes sociales o de networking.
+
+::: footer
+https://numfocus.org/disc-unconference-amsterdam
+:::
+
+# 
+
+::: columns
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](imagenes/latinr1.jpg){width="674"} ![](imagenes/latinr2.jpg){width="674"}
+:::
+
+::: {.column width="40%"}
+![](imagenes/latinr3.jpg){width="676"} ![](imagenes/latinr4.jpg){width="680"}
+:::
+
+::: {.column width="10%"}
+:::
+:::
+
+# A tener en cuenta..
+
+🌎 Presencial / híbrido, en años alternados
+
+🎫 Acceso: pago de entrada o beca
+
+📅 Anual, octubre/noviembre
+
+🎓 Becas para entrada 🎫 viaje ✈️ o alojamiento 🏨
+
+::: footer
+https://numfocus.org/disc-unconference-amsterdam
+:::
+
+# ¿Cómo puedo postularme?
+
+📋 Google Forms
+
+✅ Se tiene en cuenta:
+
+-   🎫 Necesidad
+-   🌐 Diversidad
+-   🌱 Impacto potencial en comunidades
+
+::: footer
+https://numfocus.org/disc-unconference-amsterdam
+:::
 
 # Para cerrar..
 
