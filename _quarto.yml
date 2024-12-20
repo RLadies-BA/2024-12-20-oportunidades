@@ -1,0 +1,17 @@
+project: 
+  type: website
+  render: 
+    -  "*.qmd"
+    
+lang: es
+
+
+website:
+  title: "2024-12-20-oportunidades"
+  page-navigation: true
+  description: "Página principal del taller Transforma tus datos en historias visuales con Quarto de RLadies Buenos Aires 2024."
+  site-url: "https://RLadies-BA.github.io/2024-12-20-oportunidades/"
+  favicon: "imagenes/logo-rladies-BA.png"
+
+  repo-url: https://github.com/RLadies-BA/2024-12-20-oportunidades
+  repo-actions: [source, edit, issue]
