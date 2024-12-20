@@ -13,7 +13,6 @@ embed-resources: true
 
 #  {.titulo}
 
-
 **R en Red**:
 
 Oportunidades y
@@ -44,7 +43,9 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 #  {.subtitulo}
 
-Posit::conf()
+posit::conf()
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Posit_logo.svg/800px-Posit_logo.svg.png){width="400"}
 
 # ¿De qué se trata?
 
@@ -58,28 +59,14 @@ Posit::conf()
 
 📌 **Actividades**:
 
--   💬 Charlas inspiradoras.
+-   💬 Charlas
 
--   🛠️ Talleres prácticos.
+-   🛠️ Talleres prácticos
 
--   🌐 Oportunidades de networking.
+-   🌐 Oportunidades de networking
 
 ::: footer
 https://posit.co/conference/
-:::
-
-# 
-
-::: columns
-::: {.column width="55%"}
-![](imagenes/posit1.jpg){width="700"} ![](imagenes/posit2.jpeg){width="700"}
-:::
-
-::: {.column width="45%"}
-![](imagenes/posit3.jpeg){width="749"}
-
-![](imagenes/posit4.jpg){width="700"}
-:::
 :::
 
 # A tener en cuenta..
@@ -120,9 +107,25 @@ https://posit.co/conference/
 https://posit.co/conference/
 :::
 
+# 
+
+::: columns
+::: {.column width="55%"}
+![](imagenes/posit1.jpg){width="700"} ![](imagenes/posit2.jpeg){width="700"}
+:::
+
+::: {.column width="45%"}
+![](imagenes/posit3.jpeg){width="749"}
+
+![](imagenes/posit4.jpg){width="700"}
+:::
+:::
+
 #  {.subtitulo}
 
-R Sprint
+![](imagenes/rlogo.png){width="200"} Sprint
+
+
 
 # ¿De qué se trató?
 
@@ -136,18 +139,6 @@ R Sprint
 
 ::: footer
 https://contributor.r-project.org/r-project-sprint-2023/
-:::
-
-# 
-
-::: rows
-::: {.row height="40%"}
-![](imagenes/rsprint.jpg){fig-align="center" width="1000"}
-:::
-
-::: {.row height="40%"}
-![](imagenes/r-sprint.jpeg){fig-align="center" width="590"}
-:::
 :::
 
 # ¿Cómo fue la postulación?
@@ -165,9 +156,21 @@ https://contributor.r-project.org/r-project-sprint-2023/
 https://contributor.r-project.org/r-project-sprint-2023/
 :::
 
+# 
+
+::: rows
+::: {.row height="40%"}
+![](imagenes/rsprint.jpg){fig-align="center" width="1000"}
+:::
+
+::: {.row height="40%"}
+![](imagenes/r-sprint.jpeg){fig-align="center" width="590"} ![](imagenes/rsprint2.jpeg){fig-align="center" width="590"}
+:::
+:::
+
 #  {.subtitulo}
 
-Khipu
+![](imagenes/khipu-logo.png)
 
 # ¿De qué se trata?
 
@@ -179,7 +182,7 @@ Khipu
 
 -   🧠 Deep learning
 
--   ⚖️ Sesgos
+-   ⚖️ Sesgos en IA
 
 📌 **Actividades**:
 
@@ -189,18 +192,6 @@ Khipu
 
 ::: footer
 https://khipu.ai/
-:::
-
-# 
-
-::: columns
-::: {.column width="50%"}
-![](imagenes/khipu1.jpg)
-:::
-
-::: {.column width="50%"}
-![](imagenes/khipu2.jpg)
-:::
 :::
 
 # A tener en cuenta..
@@ -231,9 +222,21 @@ https://khipu.ai/
 https://khipu.ai/
 :::
 
+# 
+
+::: columns
+::: {.column width="50%"}
+![](imagenes/khipu1.jpg)
+:::
+
+::: {.column width="50%"}
+![](imagenes/khipu2.jpg)
+:::
+:::
+
 #  {.subtitulo}
 
-LatinR
+![](imagenes/logo-latinr.png)
 
 # ¿De qué se trata?
 
@@ -259,33 +262,15 @@ LatinR
 https://latinr.org/
 :::
 
-# 
-
-::: columns
-::: {.column width="10%"}
-:::
-
-::: {.column width="40%"}
-![](imagenes/latinr1.jpg){width="674"} ![](imagenes/latinr2.jpg){width="674"}
-:::
-
-::: {.column width="40%"}
-![](imagenes/latinr3.jpg){width="676"} ![](imagenes/latinr4.jpg){width="680"}
-:::
-
-::: {.column width="10%"}
-:::
-:::
-
 # A tener en cuenta..
 
-🌎 Presencial / híbrido, en años alternados
+🌎 Presencial / online, en años alternados
 
 🎫 Acceso: pago de entrada o beca
 
 📅 Anual, octubre/noviembre
 
-🎓 Becas para entrada 🎫 viaje ✈️ o alojamiento 🏨
+🎓 Becas para entrada 🎫; estipendio para viaje ✈️ o alojamiento 🏨
 
 ::: footer
 https://latinr.org/
@@ -305,9 +290,29 @@ https://latinr.org/
 https://latinr.org/
 :::
 
+# 
+
+::: columns
+::: {.column width="10%"}
+:::
+
+::: {.column width="40%"}
+![](imagenes/latinr1.jpg){width="674"} ![](imagenes/latinr2.jpg){width="674"}
+:::
+
+::: {.column width="40%"}
+![](imagenes/latinr3.jpg){width="676"} ![](imagenes/latinr4.jpg){width="680"}
+:::
+
+::: {.column width="10%"}
+:::
+:::
+
 #  {.subtitulo}
 
-NUMFOCUS DISC Unconference (desconferencia)
+DISC Unconference
+
+![](imagenes/numfocus.png){width="400"}
 
 # ¿De qué se trata?
 
@@ -328,10 +333,6 @@ NUMFOCUS DISC Unconference (desconferencia)
 ::: footer
 https://numfocus.org/disc-unconference-amsterdam
 :::
-
-# 
-
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EVip8CCGfgc1oM2lpqoZTg.png){fig-align="center" width="820"}
 
 # A tener en cuenta..
 
@@ -359,6 +360,10 @@ https://numfocus.org/disc-unconference-amsterdam
 https://numfocus.org/disc-unconference-amsterdam
 :::
 
+# 
+
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EVip8CCGfgc1oM2lpqoZTg.png){fig-align="center" width="820"}
+
 # Para cerrar..
 
 # ¿Por qué debería sumarme? 🤔
@@ -380,3 +385,5 @@ https://numfocus.org/disc-unconference-amsterdam
 -   🌟 Inspirar y empoderar a otras personas de la región
 
 -   🌐 Dar una perspectiva más amplia a las comunidades globales
+
+# ¿Preguntas?
