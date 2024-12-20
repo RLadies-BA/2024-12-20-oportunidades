@@ -125,6 +125,7 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 -   📋 Formulario via el sitio de la Universidad de Warwick
 
 ✅ Se valoraban:
+
 -   🌐 Comunidades que integrás (LatinR, Rladies, etc.)
 -   🌱 Contribuciones a R y RUGs
 -   💻 Habilidades y experiencia en trabajo con R
