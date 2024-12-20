@@ -19,6 +19,8 @@ embed-resources: true
 Oportunidades y
 
 Comunidad
+
+
 :::
 
 #  {.smaller}
@@ -66,12 +68,14 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 # 
 
 ::: columns
-::: {.column width="50%"}
-![](imagenes/posit1.jpg)
+::: {.column width="55%"}
+![](imagenes/posit1.jpg){width="700"} ![](imagenes/posit2.jpeg){width="700"}
 :::
 
-::: {.column width="50%"}
-![](imagenes/posit2.jpeg)
+::: {.column width="45%"}
+![](imagenes/posit3.jpeg){width="749"}
+
+![](imagenes/posit4.jpg){width="700"}
 :::
 :::
 
@@ -117,7 +121,15 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 # 
 
-![](imagenes/rsprint.jpg){width="500"}
+::: rows
+::: {.row height="40%"}
+![](imagenes/rsprint.jpg){fig-align="center" width="1000"}
+:::
+
+::: {.row height="40%"}
+![](imagenes/r-sprint.jpeg){fig-align="center" width="590"}
+:::
+:::
 
 # ¿Cómo fue la postulación?
 
@@ -253,7 +265,7 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 -   📣 Aumentar la visibilidad de tu comunidad.
 
--   🧠 Traer nuevas ideas para su aplicación y contextualización local. 
+-   🧠 Traer nuevas ideas para su aplicación y contextualización local.
 
 -   🌟 Inspirar y empoderar a otras personas de la región.
 
