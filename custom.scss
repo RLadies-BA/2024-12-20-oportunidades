@@ -56,6 +56,25 @@ $code-block-font-size: 1em;
     background-color: $theme-yellow;
 }
 
+.reveal .titulo {
+  background-color: $body-color;
+  color: $theme-yellow;
+  font-size: 12rem;
+  font-weight: bold;
+
+
+}
+
+.reveal .subtitulo {
+  background-color: $theme-yellow;
+  color: $body-color;
+  font-size: 10rem;
+  font-weight: bold;
+
+
+}
+
+
 .reveal .title {
   background-color: $body-color;
   color: $theme-yellow;

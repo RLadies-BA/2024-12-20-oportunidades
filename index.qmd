@@ -11,15 +11,14 @@ format:
 embed-resources: true
 ---
 
-#  {.title}
+#  {.titulo}
 
-::: r-fit-text
+
 **R en Red**:
 
 Oportunidades y
 
 Comunidad
-:::
 
 #  {.smaller}
 
@@ -43,7 +42,9 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 :::
 :::
 
-# Posit::conf()
+#  {.subtitulo}
+
+Posit::conf()
 
 # ¿De qué se trata?
 
@@ -119,7 +120,9 @@ https://posit.co/conference/
 https://posit.co/conference/
 :::
 
-# R Sprint
+#  {.subtitulo}
+
+R Sprint
 
 # ¿De qué se trató?
 
@@ -162,7 +165,9 @@ https://contributor.r-project.org/r-project-sprint-2023/
 https://contributor.r-project.org/r-project-sprint-2023/
 :::
 
-# Khipu
+#  {.subtitulo}
+
+Khipu
 
 # ¿De qué se trata?
 
@@ -226,7 +231,9 @@ https://khipu.ai/
 https://khipu.ai/
 :::
 
-# LatinR
+#  {.subtitulo}
+
+LatinR
 
 # ¿De qué se trata?
 
@@ -298,7 +305,9 @@ https://latinr.org/
 https://latinr.org/
 :::
 
-# NUMFOCUS DISC Unconference (desconferencia)
+#  {.subtitulo}
+
+NUMFOCUS DISC Unconference (desconferencia)
 
 # ¿De qué se trata?
 
@@ -322,7 +331,7 @@ https://numfocus.org/disc-unconference-amsterdam
 
 # 
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EVip8CCGfgc1oM2lpqoZTg.png)
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*EVip8CCGfgc1oM2lpqoZTg.png){fig-align="center" width="820"}
 
 # A tener en cuenta..
 
