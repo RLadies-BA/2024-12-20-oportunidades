@@ -43,11 +43,7 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 :::
 :::
 
-# {.subtitle}
-
-::: r-fit-text
-Posit::conf() 
-:::
+# Posit::conf()
 
 # ¿De qué se trata?
 
@@ -67,18 +63,17 @@ Posit::conf()
 
 -   🌐 Oportunidades de networking.
 
-#
+# 
 
-::::: columns
+::: columns
 ::: {.column width="50%"}
 ![](imagenes/posit1.jpg)
 :::
 
 ::: {.column width="50%"}
-
 ![](imagenes/posit2.jpeg)
 :::
-:::::
+:::
 
 # A tener en cuenta..
 
@@ -92,7 +87,7 @@ Posit::conf()
 
 📋 Google Forms.
 
-✅ Requisitos:
+✅ Se valora:
 
 -   💻 Experiencia en ciencia de datos y uso de R.
 
@@ -155,18 +150,17 @@ Posit::conf()
 
 -   🛠️ Talleres
 
-#
+# 
 
-::::: columns
+::: columns
 ::: {.column width="50%"}
 ![](imagenes/khipu1.jpg)
 :::
 
 ::: {.column width="50%"}
-
 ![](imagenes/khipu2.jpg)
 :::
-:::::
+:::
 
 # A tener en cuenta..
 
@@ -182,7 +176,7 @@ Posit::conf()
 
 📋 Google Forms
 
-✅ Requisitos:
+✅ Se valora:
 
 -   💻 Trabajo vinculado a machine learning.
 
@@ -214,17 +208,17 @@ Posit::conf()
 
 -   🛠️ Talleres
 
-#
-::::: columns
+# 
+
+::: columns
 ::: {.column width="50%"}
 ![](imagenes/latinr1.jpg)
 :::
 
 ::: {.column width="50%"}
-
 ![](imagenes/latinr2.png)
 :::
-:::::
+:::
 
 # A tener en cuenta..
 
@@ -240,7 +234,7 @@ Posit::conf()
 
 📋 Google Forms
 
-✅ Requisitos:
+✅ Se valora:
 
 -   ...
 
