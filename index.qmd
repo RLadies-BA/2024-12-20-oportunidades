@@ -119,12 +119,9 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 ![](imagenes/rsprint.jpg){width="500"}
 
-# A tener en cuenta..
-
-🎫 Acceso: via postulación, con alojamiento cubierto y posibilidad de beca de traslado
-
 # ¿Cómo fue la postulación?
 
+-   🎫 Acceso via postulación o invitación, con alojamiento cubierto y posibilidad de beca de traslado
 -   📋 Formulario via el sitio de la Universidad de Warwick
 -   🌐 Comunidades que integrás (LatinR, Rladies, etc.)
 -   🌱 Contribuciones a R y RUGs
@@ -182,9 +179,9 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 -   🌐 Contribuciónes previas y potenciales a tu comunidad local.
 
--   📂 Repositorios y trabajos publicados
+-   📂 Repositorios y trabajos publicados.
 
--   🙋🏼 Opcional: presentación de póster
+-   🙋🏼 Opcional: presentación de póster.
 
 # LatinR
 
@@ -228,15 +225,17 @@ Psicóloga cognitiva (UBA), investigadora de CONICET. Co-organizadora de RLadies
 
 📅 Anual, octubre/noviembre
 
-🎓 Becas para entrada 🎫 viaje ✈️ y alojamiento 🏨
+🎓 Becas para entrada 🎫 viaje ✈️ o alojamiento 🏨
 
 # ¿Cómo puedo postularme?
 
 📋 Google Forms
 
-✅ Se valora:
+✅ Se tiene en cuenta:
 
--   ...
+-   Necesidad
+-   Diversidad
+-   Impacto
 
 # Para cerrar..
 
